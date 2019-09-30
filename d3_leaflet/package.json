@@ -1,0 +1,14 @@
+{
+  "name": "@tallesfelix/d3-com-crossfilter-e-dc-js-parte-2/2",
+  "main": "d/86db4a7af882f6a0.js",
+  "version": "201.0.0",
+  "homepage": "https://observablehq.com/@tallesfelix/d3-com-crossfilter-e-dc-js-parte-2/2",
+  "author": {
+    "name": "Talles Felix",
+    "url": "https://observablehq.com/@tallesfelix"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

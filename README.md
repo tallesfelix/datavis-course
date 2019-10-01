@@ -1,5 +1,9 @@
 ## Datavis course
 
+## Aula do dia 30/09/2019
+
+[d3_leaflet/index.html](d3_leaflet/index.html)<br>
+
 ## Aula do dia 23/09/2019
 
 [d3_crossfilter/index.html](d3_crossfilter/index.html)<br>

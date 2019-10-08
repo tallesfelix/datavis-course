@@ -1,0 +1,14 @@
+{
+  "name": "@tallesfelix/visualizando-crimes-de-chicago",
+  "main": "d/38d55616f0295e8d.js",
+  "version": "271.0.0",
+  "homepage": "https://observablehq.com/@tallesfelix/visualizando-crimes-de-chicago",
+  "author": {
+    "name": "Talles Felix",
+    "url": "https://observablehq.com/@tallesfelix"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

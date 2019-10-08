@@ -3,6 +3,7 @@
 ## Aula do dia 30/09/2019
 
 [d3_leaflet/index.html](d3_leaflet/index.html)<br>
+[d3_leaflet_2/index.html](d3_leaflet_2/index.html)<br>
 
 ## Aula do dia 25/09/2019
 

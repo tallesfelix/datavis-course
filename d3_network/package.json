@@ -1,0 +1,14 @@
+{
+  "name": "@tallesfelix/similar-song-network",
+  "main": "d/2bc1c71e98b7ed12.js",
+  "version": "89.0.0",
+  "homepage": "https://observablehq.com/@tallesfelix/similar-song-network",
+  "author": {
+    "name": "Talles Felix",
+    "url": "https://observablehq.com/@tallesfelix"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

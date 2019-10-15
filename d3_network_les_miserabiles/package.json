@@ -1,0 +1,14 @@
+{
+  "name": "@tallesfelix/les-miserabiles-network",
+  "main": "d/e36e5a5bbadc904f.js",
+  "version": "114.0.0",
+  "homepage": "https://observablehq.com/@tallesfelix/les-miserabiles-network",
+  "author": {
+    "name": "Talles Felix",
+    "url": "https://observablehq.com/@tallesfelix"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

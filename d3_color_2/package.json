@@ -1,0 +1,14 @@
+{
+  "name": "@tallesfelix/homicidios-em-fortaleza-em-2012",
+  "main": "b648b5eccfa299ba@94.js",
+  "version": "94.0.0",
+  "homepage": "https://observablehq.com/@tallesfelix/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Talles Felix",
+    "url": "https://observablehq.com/@tallesfelix"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

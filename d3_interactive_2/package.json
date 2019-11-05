@@ -1,0 +1,14 @@
+{
+  "name": "@tallesfelix/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "main": "384d6cc9353ae1cc@77.js",
+  "version": "77.0.0",
+  "homepage": "https://observablehq.com/@tallesfelix/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "author": {
+    "name": "Talles Felix",
+    "url": "https://observablehq.com/@tallesfelix"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

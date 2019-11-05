@@ -1,0 +1,14 @@
+{
+  "name": "@tallesfelix/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "main": "d5a51ca4f0974ac5@88.js",
+  "version": "88.0.0",
+  "homepage": "https://observablehq.com/@tallesfelix/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "author": {
+    "name": "Talles Felix",
+    "url": "https://observablehq.com/@tallesfelix"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
